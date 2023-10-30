@@ -1,0 +1,8 @@
+{
+  "name": "symlink-demo",
+  "version": "1.0.0",
+  "private": "true",
+  "dependencies": {
+    "dependency-with-error": "1.0.0"
+  }
+}
